@@ -1,0 +1,49 @@
+nav{
+    background-color: rgb(81, 79, 79);
+}
+#a{
+    background-color: rgb(100, 94, 94);
+}
+b{
+    
+margin: 110px 0px;
+}
+#c{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 10px;
+    margin: 10px;
+}
+.d{
+    color: aliceblue;
+    margin: 20px;
+}
+.m{
+    justify-self: end;
+  margin-left: auto;
+    width: 400px;
+
+}
+p{
+    margin: 30px;
+}
+.ameer{
+
+margin: 100px;
+padding: 30px;
+
+}
+.v{
+    margin: 10px;
+}
+.q{
+    margin: 60px;
+}
+.h{
+    margin: 60px;
+}
+.o{
+    margin-left: 80px;
+}
+.kk{
+    margin: 60px;
+}
